@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t scjtqs/nextcloud:amd64 .
+docker build -t hclasmn/nextcloud:amd64 .
