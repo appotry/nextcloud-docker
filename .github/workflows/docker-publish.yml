@@ -20,7 +20,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: scjtqs/nextcloud:adm64
+  IMAGE_NAME: hclasmn/nextcloud:adm64
 
 jobs:
   # Run tests.
